@@ -1,5 +1,3 @@
-# student-performance-prediction-ai
-%%writefile README.md
 # Student Performance Prediction System
 
 ## Overview
